@@ -7,8 +7,10 @@ A MCP server to search for accurate academic articles. More scholarly vendors wi
 
 ![image](https://github.com/user-attachments/assets/13202184-bc12-4530-b7c1-2ee698f3e1cc)
 
-
 <a href="https://glama.ai/mcp/servers/aq05b2p0ql"><img width="380" height="200" src="https://glama.ai/mcp/servers/aq05b2p0ql/badge" alt="Scholarly Server MCP server" /></a>
+
+![star-history-2025323](https://github.com/user-attachments/assets/b73c916d-194c-429e-a7f9-0ff7d0db0b02)
+
 
 ## Components
 
